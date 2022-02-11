@@ -1,0 +1,49 @@
+[
+    {
+      "id": 1,
+      "name": "Web Development",
+      "image": "https://image.freepik.com/free-photo/website-development-links-seo-webinar-cyberspace-concept_53876-120953.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 2,
+      "name": "Music",
+      "image": "https://image.freepik.com/free-vector/elegant-musical-notes-music-chord-background_1017-20759.jpg?w=740"
+    },
+    {
+      "id": 3,
+      "name": "Dawring",
+      "image": "https://image.freepik.com/free-vector/artistic-background-with-palette-paints_1284-10291.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 4,
+      "name": "Driving",
+      "image": "https://image.freepik.com/free-photo/young-handsome-man-driving-his-new-car-holding-out-keys_231208-889.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 5,
+      "name": "Cyber Security",
+      "image": "https://image.freepik.com/free-vector/steal-data-concept_23-2148549184.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 6,
+      "name": "Graphics Design",
+      "image": "https://image.freepik.com/free-vector/colorful-graphic-concept-with-er-his-workplace-blue-3d_1284-26979.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 7,
+      "name": "Machine Learning",
+      "image": "https://image.freepik.com/free-vector/ai-technology-brain-background-vector-digital-transformation-concept_53876-117817.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    },
+    {
+      "id": 8,
+      "name": "Hardware Engineering",
+      "image": "https://image.freepik.com/free-vector/it-engineer-isometric-compoisition_1284-25087.jpg?w=740",
+      "details": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Molestias nesciunt fugit cupiditate atque, dignissimos, minima recusandae ipsum repellat porro, debitis rem tenetur perferendis dolor quibusdam quas dicta doloribus quaerat sunt!"
+    }  
+]
